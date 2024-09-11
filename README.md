@@ -1,2 +1,4 @@
 # frizov.github.io
-first
+The Readme is here to help me learn.
+
+Commit 2
